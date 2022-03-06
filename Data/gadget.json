@@ -1,0 +1,109 @@
+{
+  "hp": [
+    {
+      "kategori": "vivo",
+      "nama": "Vivo Y33s",
+      "deskripsi": "Selain hadir dengan layar besar yang jernih, HP Y33s ini juga menawarkan konsep layar dengan ukuran frame yang minimalis sehingga layar lebih terekspos.",
+      "harga": 2820000,
+      "gambar": "y33s.jpg"
+    },
+    {
+      "kategori": "vivo",
+      "nama": "Vivo V20",
+      "deskripsi": "Vivo V20 ini tidak memiliki sensor sidik jari di bagian belakang, namun handphone ini sudah menggunakan sidik jari di layar atau on-screen fingerprint agar terlihat lebih rapi.",
+      "harga": 3200000,
+      "gambar": "v20.jpg"
+    },
+    {
+      "kategori": "vivo",
+      "nama": "Vivo V23e",
+      "deskripsi": "Vivo V23e ini menghadirkan sebuah kamera depan dengan resolusi super besar yakni 50 MP, bahkan sudah dilengkapi dengan Auto Focus.",
+      "harga": 3400000,
+      "gambar": "v23e.jpg"
+    },
+    {
+      "kategori": "vivo",
+      "nama": "Vivo Y93",
+      "deskripsi": "Salah satu seri Handphone di kelas entry level dengan bandrol harga murah adalah HP Vivo Y93.",
+      "harga": 1650000,
+      "gambar": "y93.jpg"
+    },
+    {
+      "kategori": "oppo",
+      "nama": "Oppo A95",
+      "deskripsi": "HP OPPO A95 ditargetkan untuk pasar menengah ke bawah dengan spesifikasi handal namun dibanderol dengan harga bersahabat.",
+      "harga": 3300000,
+      "gambar": "a95.jpg"
+    },
+    {
+      "kategori": "oppo",
+      "nama": "Oppo Reno 5",
+      "deskripsi": "Desain dari Smartphone OPPO yang satu ini memang terlihat sangat manis, terutama untuk varian warna Galactic Silver (Fantasy Silver).",
+      "harga": 3200000,
+      "gambar": "reno5.jpg"
+    },
+    {
+      "kategori": "oppo",
+      "nama": "Oppo A76",
+      "deskripsi": "OPPO A76 Usung teknologi SuperVOOC, Harga 3 jutaan.",
+      "harga": 3074000,
+      "gambar": "a76.jpg"
+    },
+    {
+      "kategori": "samsung",
+      "nama": "Samsung Galaxy A32 RAM 8",
+      "deskripsi": "Sesuai namanya, Samsung Galaxy A32 merupakan Smartphone yang paling terjangkau dari seluruh Galaxy A Series yang dihadirkan oleh Samsung.",
+      "harga": 3550000,
+      "gambar": "a32.jpg"
+    },
+    {
+      "kategori": "samsung",
+      "nama": "Samsung Galaxy M32",
+      "deskripsi": "Salah satu keunggulan dari Samsung Galaxy M series biasanya terletak pada kapasitas baterainya. Seperti halnya Samsung Galaxy M32 ini, baterai yang dibawanya adalah 5000 mAh.",
+      "harga": 3000000,
+      "gambar": "m32.jpg"
+    },
+    {
+      "kategori": "samsung",
+      "nama": "Samsung Galaxy A22",
+      "deskripsi": "Samsung Galaxy A22 menggunakan sebuah chipset dari MediaTek yakni Helio G80. Chipset ini merupakan chipset powerful tapi menggunakan power yang rendah, menggunakan fabrikasi 12 nm dengan TDP hanya 5W.",
+      "harga": 2700000,
+      "gambar": "a22.jpg"
+    },
+    {
+      "kategori": "xiaomi",
+      "nama": "Xiaomi Redmi 10",
+      "deskripsi": "Berbeda dengan pendahulunya Xiaomi Redmi 9, Xiaomi Redmi 10 ini memiliki garis desain yang terlihat lebih premium dan bahkan sangat elegan. ",
+      "harga": 2200000,
+      "gambar": "mi10.jpg"
+    },
+    {
+      "kategori": "xiaomi",
+      "nama": "Xiaomi Redmi Note 10S",
+      "deskripsi": "Xiaomi Redmi Note 10S secara desain memang mirip dengan Redmi Note 10 series lainnya. Meski mirip, bukan berarti Redmi Note 10s itu tidak enak dipandang.",
+      "harga": 2900000,
+      "gambar": "note10s.jpg"
+    },
+    {
+      "kategori": "xiaomi",
+      "nama": "Xiaomi Redmi Note 9",
+      "deskripsi": "Setelah sukses dengan Redmi Note 8 Series, kini Xiaomi kembali merilis seri Smartphone paling populer mereka, yakni Xiaomi Redmi Note 9 . Versi yang akan dibahas kali ini adalah versi reguler tanpa embel-embel Pro ataupun S.",
+      "harga": 2383000,
+      "gambar": "note9.jpg"
+    },
+    {
+      "kategori": "xiaomi",
+      "nama": "Xiaomi Redmi Note 10 Pro",
+      "deskripsi": "Xiaomi Redmi Note 10 Pro merupakan keluaran Smartphone Xiaomi di tahun 2021 dengan layar Super AMOLED di harga yang cukup menggiurkan. Hanya dengan harga 3 jutaan sudah bisa mendapatkan smartphone dengan layar Super AMOLED berukuran 6,67 inch Full HD+ dengan aspect ratio 20:9.",
+      "harga": 3060000,
+      "gambar": "note10pro.jpg"
+    },
+    {
+      "kategori": "xiaomi",
+      "nama": "Xiaomi Redmi Note 8",
+      "deskripsi": "Peningkatan paling signifikan dapur pacu yang menggunakan chipset generasi baru Snapdragon 665 octa-core dengan fabrikasi 11 nm. Plus dukungan pemrosesan grafis Adreno 610 membuat performa Xiaomi Redmi Note8 mantap di antara Smartphone di kelasnya.",
+      "harga": 1800000,
+      "gambar": "note8.jpg"
+    }
+  ]
+}
